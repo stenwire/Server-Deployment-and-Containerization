@@ -113,3 +113,6 @@ def _get_jwt(user_data):
 
 if __name__ == '__main__':
     APP.run(host='127.0.0.1', port=8080, debug=True)
+
+
+# -- Flask runs locally
