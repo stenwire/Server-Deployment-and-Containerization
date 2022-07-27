@@ -30,3 +30,6 @@ htmlcov/
 .direnv
 
 .github/**
+new_user_credentials (4).csv
+new_user_credentials (5).csv
+aws-auth-patch(old2).yml
