@@ -27,7 +27,7 @@ def test_health(client):
     assert response.status_code == 200
     assert response.json == 'Healthy'
     # assertFalse(response.json != 'Healthy')
-    assert False
+    # assert False
 
 
 def test_auth(client):
@@ -41,4 +41,4 @@ def test_auth(client):
     token = response.json['token']
     assert token is not None
     # assertFalse(len(body) < 0)
-    assert False
+    # assert False
