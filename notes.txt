@@ -1,0 +1,23 @@
+cloudFormation stack name: myFirstTestForProject
+
+{
+    "StackId": "arn:aws:cloudformation:us-east-2:619908637995:stack/myFirstTestForProject/0bb08130-0cc9-11ed-8ee3-06954506bab0"
+}
+
+aws cloudformation delete-stack --stack-name myFirstTestForProject
+
+{
+    "StackId": "arn:aws:cloudformation:us-east-2:619908637995:stack/myStack2/3d4e15f0-0ccd-11ed-8439-06ab20400c0a"
+}
+
+
+
+
+---------------------------
+
+238004439629
+
+arn:aws:iam::238004439629:role/UdacityFlaskDeployCBKubectlRole
+
+ad37dceb155ed43e69c27b6a2e2fd8a8-777781710.us-east-2.elb.amazonaws.com
+
