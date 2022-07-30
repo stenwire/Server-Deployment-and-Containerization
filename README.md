@@ -1,5 +1,10 @@
 # Deploying a Flask API
 
+[![Github Repo Size](https://img.shields.io/github/repo-size/stenwire/Server-Deployment-and-Containerization.svg)](https://github.com/stenwire/alx-system_engineering-devops)
+[![LICENSE](https://img.shields.io/npm/l/rhof.svg)](https://github.com/stenwire/Server-Deployment-and-Containerization/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/stenwire/Server-Deployment-and-Containerization.svg)](https://github.com/stenwire/Server-Deployment-and-Containerization/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/stenwire/Server-Deployment-and-Containerization.svg)](https://github.com/stenwire/Server-Deployment-and-Containerization/commits/master)
+
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
 
 In this project you will containerize and deploy a Flask API to a Kubernetes cluster using Docker, AWS EKS, CodePipeline, and CodeBuild.
